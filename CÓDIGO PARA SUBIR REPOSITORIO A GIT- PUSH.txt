@@ -1,0 +1,12 @@
+*** CÓDIGO PARA SUBIR ACTUALIZACIÓN A REPOSITORIO A GITHUB***
+
+1. Pararse en la consola y escribir uno a uno lo siguiente
+
+git add -A
+
+git commit -m 'Agregar comentario'
+
+git push
+
+
+Nota: Al hacer el push es probable que pida las credenciales de la cuenta de GitHub
